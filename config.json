@@ -1,0 +1,19 @@
+{
+    "data_root": "allData",
+    "results_dir": "results",
+    "underliers": ["NIFTY", "BANKNIFTY"],
+    "initial_capital": 1000000,
+    "quantity": 1,
+    "transaction_cost": 20,
+    "slippage": 0,
+    "alignment_policy": "forward_fill",
+    "trading_start_time": "09:15:00",
+    "trading_end_time": "15:30:00",
+    "date_range": {
+        "start": "20221101",
+        "end": "20221130"
+    },
+    "futures_folder_name": "Futures (Continuous)",
+    "options_folder_name": "Options",
+    "logging_level": "INFO"
+}
