@@ -1,0 +1,33 @@
+{
+  "initial_capital": 1000000.0,
+  "final_equity": 343347.8,
+  "total_pnl": -656652.2,
+  "total_return_pct": -65.6652,
+  "max_drawdown_pct": -65.6642,
+  "total_trades": 16362,
+  "winning_trades": 65,
+  "losing_trades": 16297,
+  "win_rate_pct": 0.4,
+  "avg_trade_pnl": -40.13,
+  "avg_winning_pnl": 16.2,
+  "avg_losing_pnl": -40.36,
+  "total_rolls": 8139,
+  "avg_holding_time_seconds": 115.51,
+  "max_holding_time_seconds": 18969.0,
+  "total_transaction_costs": 654480.0,
+  "trading_days": 42,
+  "per_underlier": {
+    "BANKNIFTY": {
+      "total_trades": 8478,
+      "total_pnl": -340764.45,
+      "total_rolls": 4218,
+      "avg_trade_pnl": -40.19
+    },
+    "NIFTY": {
+      "total_trades": 7884,
+      "total_pnl": -315887.75,
+      "total_rolls": 3921,
+      "avg_trade_pnl": -40.07
+    }
+  }
+}
